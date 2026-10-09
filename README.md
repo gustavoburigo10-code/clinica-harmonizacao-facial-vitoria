@@ -39,7 +39,7 @@ Abra `index.html` e procure pelas marcas abaixo (também estão no topo do arqui
 | `DATA-WHATS`       | Número do WhatsApp no formato `55DDNÚMERO` (hoje: `5511953634975`)   |
 | `DATA-GALERIA`     | Fotos da galeria (a clínica **não tem Instagram** — nenhum link)      |
 | `DATA-ENDERECO`    | Endereço, horários e o `src` do mapa do Google Maps                   |
-| `DATA-DEPOIMENTO`  | Depoimentos **reais** (os atuais são placeholders)                    |
+| `DATA-DEPOIMENTO`  | Depoimentos das pacientes (os 3 atuais já são os reais)           |
 
 Também troque:
 
