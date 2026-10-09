@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dra. Vitória Caldeira">
+  <rect width="64" height="64" rx="14" fill="#303033"/>
+  <circle cx="32" cy="32" r="24" fill="none" stroke="#C8B39A" stroke-width="1.2" opacity=".7"/>
+  <path d="M19.5 18H27l5 16.5L37 18h7.5L35.6 46h-7.2L19.5 18Z" fill="#F5F1ED"/>
+  <circle cx="46.5" cy="19" r="2.2" fill="#C8B39A"/>
+</svg>
